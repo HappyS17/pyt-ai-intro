@@ -19,6 +19,7 @@ Nach diesem Modul können Sie:
 ## 📚 Modulstruktur
 
 ### [00-vorbereitung/](./00-vorbereitung/)
+
 **Zeitaufwand:** 2-3 Stunden  
 Installieren Sie Ihre Entwicklungsumgebung und machen Sie sich mit den Grundkonzepten vertraut.
 
@@ -27,6 +28,7 @@ Installieren Sie Ihre Entwicklungsumgebung und machen Sie sich mit den Grundkonz
 - 📄 [Leseauftrag](./00-vorbereitung/leseauftrag.md)
 
 ### [01-praxis/](./01-praxis/)
+
 **Präsenzunterricht:** 4 Lektionen à 50 Minuten
 
 - 📖 [Lektion 1: Einführung & Mindset](./01-praxis/lektion-1-einfuehrung.md) (50 Min.)
@@ -35,6 +37,7 @@ Installieren Sie Ihre Entwicklungsumgebung und machen Sie sich mit den Grundkonz
 - 📖 [Lektion 4: Von der Idee zur App](./01-praxis/lektion-4-idee-zur-app.md) (50 Min.)
 
 ### [02-uebungen/](./02-uebungen/)
+
 **Übungen während der Präsenz**
 
 - 💪 [Übung 1: Einkaufsliste durchdenken](./02-uebungen/uebung-1-einkaufsliste.md) (15 Min.)
@@ -51,6 +54,7 @@ Installieren Sie Ihre Entwicklungsumgebung und machen Sie sich mit den Grundkonz
 - 📝 [Reflexion](./03-nachbearbeitung/reflexion.md)
 
 ### [04-materialien/](./04-materialien/)
+
 **Handouts & Ressourcen**
 
 - 📋 [Handout: Programmier-Mindset](./04-materialien/handout-programmier-mindset.md)
@@ -59,6 +63,7 @@ Installieren Sie Ihre Entwicklungsumgebung und machen Sie sich mit den Grundkonz
 - 📋 [Git Cheatsheet](./04-materialien/cheatsheet-git.md)
 
 ### [05-beispiele/](./05-beispiele/)
+
 **Code-Beispiele vom Dozenten**
 
 - 💻 Live-Demo Beispiele
@@ -85,6 +90,7 @@ Sie haben das Modul erfolgreich abgeschlossen, wenn Sie:
 ## 📞 Hilfe & Support
 
 Bei Fragen oder Problemen:
+
 - 💬 Nutzen Sie das Kurs-Forum
 - 📧 Kontaktieren Sie Ihren Dozenten
 - 👥 Tauschen Sie sich mit Kommilitonen aus

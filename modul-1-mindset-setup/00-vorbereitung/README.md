@@ -9,61 +9,91 @@ Bevor wir mit dem Präsenzunterricht starten, bereiten Sie bitte Ihre Entwicklun
 
 ## ✅ Checkliste
 
-- [ ] **Aufgabe 1:** Tech-Stack installiert (90 Min.)
-  - [ ] Python installiert und getestet
-  - [ ] Git installiert und konfiguriert
-  - [ ] VS Code installiert und eingerichtet
-  - [ ] uv installiert
-  - [ ] GitHub Copilot oder Alternative eingerichtet
-  
-- [ ] **Aufgabe 2:** Leseauftrag abgeschlossen (45 Min.)
-  - [ ] Artikel gelesen
-  - [ ] Video angeschaut
-  - [ ] Blog-Post gelesen
-  - [ ] Reflexionsfragen beantwortet
+### Schritt 1: Entwicklungsumgebung wählen (15 Min.)
 
-- [ ] **Aufgabe 3:** Erste KI-Interaktion (30 Min.)
-  - [ ] "Hello World" mit KI generiert
-  - [ ] Erklärung eingeholt
-  - [ ] Variante erstellt
-  - [ ] Dokumentiert
+Wähle **EINE** der folgenden Optionen:
 
-## 📚 Materialien
+#### Option A: GitHub Codespaces (empfohlen - keine Installation!)
+- [ ] GitHub Student Developer Pack aktiviert
+- [ ] Codespaces gestartet
+- [ ] Python getestet
+- **Zeitaufwand:** 15 Min.
+- **Voraussetzung:** .edu Email-Adresse
+- **Kosten:** Kostenlos (60 Stunden/Monat)
 
-1. **[Installationsanleitung](./installationsanleitung.md)**  
-   Detaillierte Schritt-für-Schritt-Anleitung für alle Tools
+👉 **[Codespaces Setup Guide](./codespaces-setup.md)**
 
-2. **[Erste Schritte mit KI](./erste-schritte.md)**  
-   Ihre erste Interaktion mit KI-Coding-Assistenten
+#### Option B: Lokale Installation (traditionell)
+- [ ] Python installiert und getestet
+- [ ] Git installiert und konfiguriert
+- [ ] VS Code installiert und eingerichtet
+- [ ] uv installiert
+- [ ] GitHub Copilot oder Alternative eingerichtet
+- **Zeitaufwand:** 90 Min.
+- **Voraussetzung:** Admin-Rechte auf deinem Computer
+- **Kosten:** Kostenlos
 
-3. **[Leseauftrag](./leseauftrag.md)**  
-   Grundlegende Konzepte und Reflexionsfragen
-
-## 🆘 Probleme?
-
-Falls Sie bei der Installation auf Probleme stoßen:
-
-1. **Dokumentieren Sie das Problem:**
-   - Was haben Sie versucht?
-   - Welche Fehlermeldung erscheint?
-   - Screenshots helfen!
-
-2. **Suchen Sie nach Lösungen:**
-   - Nutzen Sie ChatGPT/Claude für Hilfe
-   - Suchen Sie in der offiziellen Dokumentation
-   - Fragen Sie im Kurs-Forum
-
-3. **Bringen Sie Ihre Fragen mit:**
-   - Wir klären offene Fragen in der ersten Lektion
-   - Kein Problem ist zu klein!
-
-## 💡 Tipps
-
-- **Planen Sie genug Zeit ein:** Die Installation kann je nach System länger dauern
-- **Testen Sie alles:** Stellen Sie sicher, dass alle Tools funktionieren
-- **Dokumentieren Sie:** Notieren Sie Probleme und Lösungen für später
-- **Fragen Sie frühzeitig:** Warten Sie nicht bis zur letzten Minute
+👉 **[Installationsanleitung](./installationsanleitung.md)**
 
 ---
 
-**Bereit?** Starten Sie mit der [Installationsanleitung](./installationsanleitung.md)!
+### Schritt 2: Leseauftrag abgeschlossen (45 Min.)
+- [ ] Artikel gelesen
+- [ ] Video angeschaut
+- [ ] Blog-Post gelesen
+- [ ] Reflexionsfragen beantwortet
+
+👉 **[Leseauftrag](./leseauftrag.md)**
+
+---
+
+### Schritt 3: Erste KI-Interaktion (30 Min.)
+- [ ] ChatGPT oder Claude Account erstellt
+- [ ] Erste Python-Programme generiert
+- [ ] Code getestet und verstanden
+- [ ] Dokumentation erstellt
+
+👉 **[Erste Schritte mit KI](./erste-schritte.md)**
+
+## 🎯 Welche Option passt zu mir?
+
+### GitHub Codespaces ✅ wenn:
+- Du kein Admin-Passwort für deinen Computer hast
+- Du auf verschiedenen Geräten arbeiten möchtest
+- Du schnell starten möchtest (keine Installation)
+- Du eine .edu Email-Adresse hast
+- Du ein Tablet oder Chromebook nutzt
+
+### Lokale Installation ✅ wenn:
+- Du lieber offline arbeiten möchtest
+- Du unbegrenzte Rechenleistung brauchst
+- Du kein GitHub Student Pack hast
+- Du bereits Python installiert hast
+
+---
+
+## 💡 Hybrid-Ansatz (empfohlen)
+
+**Beste Lösung:** Nutze beide!
+1. **Codespaces** für Kursmaterialien und Übungen
+2. **Lokal** für größere Projekte und Experimente
+
+So sparst du Codespaces-Stunden und hast maximale Flexibilität.
+
+## 📞 Support
+
+### Probleme bei der Installation?
+- Schreib eine Nachricht im Kurs-Chat
+- Oder komm zur Sprechstunde
+
+### Fragen zu Codespaces?
+- [GitHub Codespaces FAQ](https://github.com/features/codespaces)
+- [GitHub Education Support](https://support.github.com/contact)
+
+---
+
+## ✅ Fertig?
+
+Wenn du alle Schritte abgeschlossen hast, bist du bereit für Modul 1! 🚀
+
+**Nächster Schritt:** Komm zur ersten Präsenzveranstaltung mit deiner funktionierenden Umgebung.
