@@ -14,6 +14,7 @@ Bevor wir mit dem Präsenzunterricht starten, bereiten Sie bitte Ihre Entwicklun
 Wähle **EINE** der folgenden Optionen:
 
 #### Option A: GitHub Codespaces (empfohlen - keine Installation!)
+
 - [ ] GitHub Student Developer Pack aktiviert
 - [ ] Codespaces gestartet
 - [ ] Python getestet
@@ -24,6 +25,7 @@ Wähle **EINE** der folgenden Optionen:
 👉 **[Codespaces Setup Guide](./codespaces-setup.md)**
 
 #### Option B: Lokale Installation (traditionell)
+
 - [ ] Python installiert und getestet
 - [ ] Git installiert und konfiguriert
 - [ ] VS Code installiert und eingerichtet
@@ -38,6 +40,7 @@ Wähle **EINE** der folgenden Optionen:
 ---
 
 ### Schritt 2: Leseauftrag abgeschlossen (45 Min.)
+
 - [ ] Artikel gelesen
 - [ ] Video angeschaut
 - [ ] Blog-Post gelesen
@@ -48,6 +51,7 @@ Wähle **EINE** der folgenden Optionen:
 ---
 
 ### Schritt 3: Erste KI-Interaktion (30 Min.)
+
 - [ ] ChatGPT oder Claude Account erstellt
 - [ ] Erste Python-Programme generiert
 - [ ] Code getestet und verstanden
@@ -57,14 +61,16 @@ Wähle **EINE** der folgenden Optionen:
 
 ## 🎯 Welche Option passt zu mir?
 
-### GitHub Codespaces ✅ wenn:
+### GitHub Codespaces ✅ wenn
+
 - Du kein Admin-Passwort für deinen Computer hast
 - Du auf verschiedenen Geräten arbeiten möchtest
 - Du schnell starten möchtest (keine Installation)
 - Du eine .edu Email-Adresse hast
 - Du ein Tablet oder Chromebook nutzt
 
-### Lokale Installation ✅ wenn:
+### Lokale Installation ✅ wenn
+
 - Du lieber offline arbeiten möchtest
 - Du unbegrenzte Rechenleistung brauchst
 - Du kein GitHub Student Pack hast
@@ -75,6 +81,7 @@ Wähle **EINE** der folgenden Optionen:
 ## 💡 Hybrid-Ansatz (empfohlen)
 
 **Beste Lösung:** Nutze beide!
+
 1. **Codespaces** für Kursmaterialien und Übungen
 2. **Lokal** für größere Projekte und Experimente
 
@@ -83,10 +90,12 @@ So sparst du Codespaces-Stunden und hast maximale Flexibilität.
 ## 📞 Support
 
 ### Probleme bei der Installation?
+
 - Schreib eine Nachricht im Kurs-Chat
 - Oder komm zur Sprechstunde
 
 ### Fragen zu Codespaces?
+
 - [GitHub Codespaces FAQ](https://github.com/features/codespaces)
 - [GitHub Education Support](https://support.github.com/contact)
 
