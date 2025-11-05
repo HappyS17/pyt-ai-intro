@@ -19,7 +19,7 @@ Umfassende Testabdeckung für alle Python-Beispiele in allen 5 Modulen.
 
 ```bash
 # Test-Dependencies installieren
-pip install -r requirements-test.txt
+uv sync --group test
 ```
 
 ### Tests ausführen

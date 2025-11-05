@@ -93,7 +93,7 @@ Umfassende Testabdeckung für alle Python-Beispiele in allen 5 Modulen wurde erf
 
 ### Installation
 ```bash
-pip install -r requirements-test.txt
+uv sync --group test
 ```
 
 ### Tests ausführen

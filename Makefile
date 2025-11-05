@@ -1,7 +1,10 @@
-.PHONY: test test-coverage test-fast test-modul1 test-modul2 test-modul3 test-modul4 test-modul5 help
+.PHONY: test test-coverage test-fast test-modul1 test-modul2 test-modul3 test-modul4 test-modul5 install help
 
 help:
 	@echo "🧪 Test-Befehle für pyt-ai-intro"
+	@echo ""
+	@echo "Setup:"
+	@echo "  make install           - Test-Dependencies mit uv installieren"
 	@echo ""
 	@echo "Alle Tests:"
 	@echo "  make test              - Alle Tests ausführen"
@@ -18,6 +21,10 @@ help:
 	@echo "Weitere:"
 	@echo "  make clean             - Cleanup (__pycache__, .pytest_cache)"
 	@echo "  make help              - Diese Hilfe anzeigen"
+
+install:
+	@echo "📦 Installiere Test-Dependencies mit uv..."
+	uv sync --group test
 
 test:
 	@echo "🧪 Führe alle Tests aus..."

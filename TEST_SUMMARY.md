@@ -92,7 +92,7 @@ GESAMT                           142 Tests ✅
 
 ```bash
 # Test-Dependencies installieren
-pip install -r requirements-test.txt
+uv sync --group test
 ```
 
 ### Tests ausführen
