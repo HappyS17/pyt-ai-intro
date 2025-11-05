@@ -20,19 +20,20 @@ GitHub Codespaces ist eine **vollständig konfigurierte Cloud-IDE**:
 - Läuft im Browser (VS Code Web)
 - Keine lokale Installation nötig
 - Alle Tools automatisch installiert
-- Kostenlos für Studierende mit GitHub Student Pack
+- **Kostenlos für alle** mit GitHub Free Account (60 Stunden/Monat)
+- Keine .edu Email-Adresse erforderlich!
 
 ---
 
 ## 💰 Kostenmodell für Studierende
 
-### GitHub Student Developer Pack (kostenlos)
+### Option 1: Kostenlos mit GitHub Free Account (EMPFOHLEN)
 
-**Voraussetzung:** .edu Email-Adresse
+**Voraussetzung:** Kostenloser GitHub Account (keine .edu Email nötig!)
 
 **Kostenlose Limits:**
 
-- 60 Compute-Stunden/Monat
+- **60 Compute-Stunden/Monat** (für jeden!)
 - 15 GB Storage
 - 1 aktiver Codespace gleichzeitig
 - 2-core Machine (Standard)
@@ -43,11 +44,23 @@ GitHub Codespaces ist eine **vollständig konfigurierte Cloud-IDE**:
 - Ausreichend für Kursmaterialien + Übungen
 - Pausieren spart Stunden (nach 30 Min. Inaktivität automatisch)
 
-### Für Kurse (GitHub Classroom)
+**Wichtig:** Studierende brauchen KEINE .edu Email-Adresse! Jeder mit einem kostenlosen GitHub Account bekommt 60 Stunden/Monat.
+
+### Option 2: GitHub Student Developer Pack (optional)
+
+**Voraussetzung:** .edu Email-Adresse (falls verfügbar)
+
+**Zusätzliche Vorteile:**
+
+- Gleiche 60 Stunden/Monat wie Free Account
+- Zusätzliche Tools und Services
+- GitHub Pro kostenlos
+
+### Option 3: Für Kurse (GitHub Classroom)
 
 Wenn du **GitHub Classroom** nutzt:
 
-- Kostenlose Codespaces für alle Studierenden
+- Kostenlose Codespaces für alle Studierenden (unabhängig von Email)
 - Ausreichend für ~50 Studierende mit 5 Assignments/Monat
 - Keine Limits für Classroom-Assignments
 
@@ -217,8 +230,9 @@ Wenn du Assignments verteilst:
 
 ### Stunden aufgebraucht
 
-- Warte bis zum nächsten Monat
-- Oder nutze lokale Installation
+- Warte bis zum nächsten Monat (60 Stunden werden monatlich zurückgesetzt)
+- Oder nutze lokale Installation mit `uv sync --group dev`
+- Oder nutze Dev Container lokal in VS Code
 - Oder frag deinen Kursleiter
 
 ### Dependencies nicht installiert

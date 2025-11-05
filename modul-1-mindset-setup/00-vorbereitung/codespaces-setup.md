@@ -14,16 +14,11 @@ GitHub Codespaces ist eine **vollständig konfigurierte Cloud-IDE** direkt in de
 
 ---
 
-## 💰 Kostenlos für Studierende
+## 💰 Kostenlos für alle Studierenden
 
-### Voraussetzung: GitHub Student Developer Pack
+### ✅ Gute Nachricht: Keine .edu Email nötig!
 
-1. Gehe zu [github.com/education/students](https://github.com/education/students)
-2. Klicke "Get benefits"
-3. Verifiziere mit deiner **.edu Email-Adresse**
-4. Warte auf Bestätigung (meist sofort)
-
-### Kostenlose Limits
+Jeder mit einem **kostenlosen GitHub Account** bekommt automatisch:
 
 | Ressource | Limit |
 |-----------|-------|
@@ -33,6 +28,17 @@ GitHub Codespaces ist eine **vollständig konfigurierte Cloud-IDE** direkt in de
 | **Machine Type** | 2-core (Standard) |
 
 **Beispiel:** 60 Stunden = 2 Stunden pro Tag für einen Monat ✅
+
+### Optional: GitHub Student Developer Pack
+
+Falls deine Institution eine **.edu Email-Adresse** anbietet, kannst du zusätzliche Vorteile bekommen:
+
+1. Gehe zu [github.com/education/students](https://github.com/education/students)
+2. Klicke "Get benefits"
+3. Verifiziere mit deiner **.edu Email-Adresse**
+4. Warte auf Bestätigung (meist sofort)
+
+**Aber:** Du brauchst das NICHT für Codespaces - die 60 Stunden/Monat bekommst du auch ohne!
 
 ---
 
