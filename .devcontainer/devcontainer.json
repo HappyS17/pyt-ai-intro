@@ -32,7 +32,7 @@
       }
     }
   },
-  "postCreateCommand": "pip install --upgrade pip && pip install -r requirements-dev.txt",
+  "postCreateCommand": "pip install --upgrade pip && pip install uv && uv sync --group dev",
   "remoteUser": "vscode",
   "forwardPorts": [5000, 8000, 8080],
   "portsAttributes": {
