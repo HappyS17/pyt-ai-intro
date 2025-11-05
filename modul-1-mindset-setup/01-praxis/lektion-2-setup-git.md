@@ -125,8 +125,8 @@ code .  # VS Code im aktuellen Ordner öffnen
 
 ```
 mein-erstes-projekt/
-├── README.md          # Projektbeschreibung
-├── requirements.txt   # Python-Abhängigkeiten
+├── README.md         # Projektbeschreibung
+├── requirements.txt  # Python-Abhängigkeiten
 ├── .gitignore        # Dateien, die Git ignorieren soll
 └── src/              # Quellcode
     └── main.py
@@ -229,7 +229,7 @@ git commit -m "feat: Neue Funktion hinzugefügt"
 
 **Was ist das?**
 - Datei, die Git sagt, welche Dateien ignoriert werden sollen
-- Wichtig für: temporäre Dateien, Secrets, grosse Dateien
+- Wichtig für: temporäre Dateien, Secrets, große Dateien
 
 **Beispiel `.gitignore` für Python:**
 
@@ -386,7 +386,7 @@ git config user.email "ihre.email@example.com"
 - Haben Sie `git add` ausgeführt?
 
 **Problem: Editor öffnet sich bei Commit**
-- Schliessen Sie den Editor (`:wq` in Vim)
+- Schließen Sie den Editor (`:wq` in Vim)
 - Oder nutzen Sie immer `-m "Nachricht"`
 
 ---

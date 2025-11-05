@@ -1,0 +1,19 @@
+# Test-Dependencies für pyt-ai-intro
+
+# Core Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+pytest-xdist>=3.3.1
+pytest-timeout>=2.1.0
+
+# Mocking & Fixtures
+unittest-mock>=1.5.0
+
+# Code Quality
+coverage>=7.2.0
+coverage-badge>=1.1.0
+
+# Utilities
+requests-mock>=1.11.0
+

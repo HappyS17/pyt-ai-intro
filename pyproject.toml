@@ -1,7 +1,11 @@
 [project]
 name = "pyt-ai-intro"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Python & KI-gestütztes Programmieren"
 readme = "README.md"
 requires-python = ">=3.13.1"
-dependencies = []
+dependencies = [
+    "anthropic>=0.72.0",
+    "openai>=2.7.1",
+    "pytest>=8.4.2",
+]
