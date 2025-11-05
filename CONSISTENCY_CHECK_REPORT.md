@@ -145,7 +145,7 @@
 1. **Systematisch vorgehen:** Modul für Modul, Sektion für Sektion
 2. **Template verwenden:** Bestehende Dateien als Vorlage nutzen
 3. **Konsistenz bewahren:** Struktur und Format beibehalten
-4. **Regelmäßig prüfen:** Nach jeder Änderung Konsistenz überprüfen
+4. **Regelmässig prüfen:** Nach jeder Änderung Konsistenz überprüfen
 
 ---
 

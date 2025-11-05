@@ -29,7 +29,7 @@ Dieses Dokument definiert die Commit-Konvention für das `pyt-ai-intro` Projekt.
 
 ### Subject (Betreffzeile)
 - ✅ Imperativ: "Add" nicht "Added" oder "Adds"
-- ✅ Keine Großbuchstaben am Anfang (nach Emoji)
+- ✅ Keine Grossbuchstaben am Anfang (nach Emoji)
 - ✅ Kein Punkt am Ende
 - ✅ Max. 50 Zeichen (nach Emoji und Type)
 - ✅ Englisch
@@ -159,7 +159,7 @@ git log --oneline -1
 ## Tipps
 
 - **Atomic Commits:** Ein Commit = eine logische Änderung
-- **Häufig committen:** Lieber viele kleine als wenige große Commits
+- **Häufig committen:** Lieber viele kleine als wenige grosse Commits
 - **Aussagekräftig:** Zukünftige du wird dir dankbar sein
 - **Englisch:** Konsistenz im Team
 - **Emoji:** Macht Logs visuell scanbar

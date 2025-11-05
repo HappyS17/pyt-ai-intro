@@ -106,7 +106,7 @@ Wenn du Assignments über GitHub Classroom verteilst:
    - Auf verschiedenen Geräten arbeiten
 
 2. **Lokal installieren für:**
-   - Größere Projekte
+   - Grössere Projekte
    - Unbegrenzte Rechenleistung
    - Offline arbeiten
    - Langfristige Entwicklung

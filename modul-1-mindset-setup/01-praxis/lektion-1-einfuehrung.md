@@ -7,7 +7,7 @@
 
 | Zeit | Aktivität | Methode |
 |------|-----------|---------|
-| 0-10 Min. | Begrüßung & Kursübersicht | Vortrag |
+| 0-10 Min. | Begrüssung & Kursübersicht | Vortrag |
 | 10-25 Min. | Was ist Programmieren? | Vortrag + Diskussion |
 | 25-35 Min. | Live-Demo: Problem mit/ohne KI | Live-Coding |
 | 35-50 Min. | Übung: Einkaufsliste durchdenken | Gruppenarbeit |
@@ -23,7 +23,7 @@ Nach dieser Lektion können die Studierenden:
 
 ---
 
-## 📚 Teil 1: Begrüßung & Kursübersicht (10 Min.)
+## 📚 Teil 1: Begrüssung & Kursübersicht (10 Min.)
 
 ### Willkommen
 
@@ -59,12 +59,12 @@ Nach dieser Lektion können die Studierenden:
 
 #### 1. Problemdekomposition
 **Was ist das?**
-- Große Probleme in kleinere, lösbare Teilprobleme zerlegen
+- Grosse Probleme in kleinere, lösbare Teilprobleme zerlegen
 - Jedes Teilproblem einzeln angehen
 
 **Beispiel: "Kaffee kochen"**
 ```
-Großes Problem: Kaffee kochen
+Grosses Problem: Kaffee kochen
 
 Teilprobleme:
 1. Wasser holen
@@ -313,7 +313,7 @@ Erkläre mir diesen Code Zeile für Zeile.
 ### Hausaufgabe
 
 Falls noch nicht erledigt:
-- ✅ Vorbereitung abschließen (Installation, Leseauftrag)
+- ✅ Vorbereitung abschliessen (Installation, Leseauftrag)
 - ✅ Erste Schritte mit KI durchführen
 
 ### Fragen?

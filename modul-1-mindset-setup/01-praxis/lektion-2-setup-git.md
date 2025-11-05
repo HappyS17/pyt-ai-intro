@@ -229,7 +229,7 @@ git commit -m "feat: Neue Funktion hinzugefügt"
 
 **Was ist das?**
 - Datei, die Git sagt, welche Dateien ignoriert werden sollen
-- Wichtig für: temporäre Dateien, Secrets, große Dateien
+- Wichtig für: temporäre Dateien, Secrets, grosse Dateien
 
 **Beispiel `.gitignore` für Python:**
 
@@ -386,7 +386,7 @@ git config user.email "ihre.email@example.com"
 - Haben Sie `git add` ausgeführt?
 
 **Problem: Editor öffnet sich bei Commit**
-- Schließen Sie den Editor (`:wq` in Vim)
+- Schliessen Sie den Editor (`:wq` in Vim)
 - Oder nutzen Sie immer `-m "Nachricht"`
 
 ---

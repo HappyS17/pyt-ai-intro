@@ -22,7 +22,7 @@ Wähle einen öffentlichen Datensatz (z.B. von Kaggle, UCI ML Repository oder Gi
 - [ ] Fehlende Werte behandeln (drop/fill)
 - [ ] Duplikate entfernen
 - [ ] Datentypen konvertieren
-- [ ] Ausreißer identifizieren
+- [ ] Ausreisser identifizieren
 
 ### Phase 3: Exploratory Data Analysis (EDA)
 - [ ] Verteilungen analysieren
@@ -33,7 +33,7 @@ Wähle einen öffentlichen Datensatz (z.B. von Kaggle, UCI ML Repository oder Gi
 ### Phase 4: Visualisierung
 - [ ] Histogramme erstellen
 - [ ] Scatter Plots
-- [ ] Box Plots für Ausreißer
+- [ ] Box Plots für Ausreisser
 - [ ] Heatmaps für Korrelationen
 
 ## 💻 Beispiel-Struktur

@@ -241,7 +241,7 @@ df['Alter'] * 2  # Statt: df['Alter'].apply(lambda x: x * 2)
 # Speicher sparen: Datentypen optimieren
 df['Kategorie'] = df['Kategorie'].astype('category')
 
-# Große Dateien: Chunks lesen
+# Grosse Dateien: Chunks lesen
 for chunk in pd.read_csv('large_file.csv', chunksize=10000):
     process(chunk)
 ```

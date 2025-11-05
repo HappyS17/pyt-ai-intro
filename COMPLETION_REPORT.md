@@ -280,5 +280,5 @@ Bei Fragen oder Problemen:
 
 ---
 
-**Merksatz:** "Konsistenz ist der Schlüssel zu großartigen Kursen!" 🎓
+**Merksatz:** "Konsistenz ist der Schlüssel zu grossartigen Kursen!" 🎓
 

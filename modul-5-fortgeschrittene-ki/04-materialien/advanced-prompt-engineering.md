@@ -48,7 +48,7 @@ Antwort: 14
 
 ### Zero-Shot (keine Beispiele)
 ```
-Klassifiziere diese Sentiment: "Das Produkt ist großartig!"
+Klassifiziere diese Sentiment: "Das Produkt ist grossartig!"
 ```
 
 ### Few-Shot (mit Beispielen)
@@ -56,17 +56,17 @@ Klassifiziere diese Sentiment: "Das Produkt ist großartig!"
 Klassifiziere Sentiment als positiv, neutral oder negativ.
 
 Beispiele:
-- "Das Produkt ist großartig!" → positiv
+- "Das Produkt ist grossartig!" → positiv
 - "Das Produkt ist ok" → neutral
 - "Das Produkt ist schrecklich" → negativ
 
-Klassifiziere: "Das Produkt ist großartig!"
+Klassifiziere: "Das Produkt ist grossartig!"
 ```
 
 ### Ergebnis
 ```
 Sentiment: positiv
-Grund: Wort "großartig" ist positiv
+Grund: Wort "grossartig" ist positiv
 ```
 
 ---
@@ -332,5 +332,5 @@ Nachher: "Erkläre Python in maximal 100 Wörtern"
 
 ---
 
-**Merksatz:** "Ein großartiger Prompt ist wie ein großartiger Lehrer - klar, geduldig und hilfreich!" 🎓
+**Merksatz:** "Ein grossartiger Prompt ist wie ein grossartiger Lehrer - klar, geduldig und hilfreich!" 🎓
 

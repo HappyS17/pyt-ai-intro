@@ -267,7 +267,7 @@ MIT License - siehe [LICENSE](LICENSE) Datei.
 
 ## 🙏 Danksagungen
 
-- pandas Team für großartige Dokumentation
+- pandas Team für grossartige Dokumentation
 - matplotlib für Visualisierungen
 - pytest für Testing-Framework
 

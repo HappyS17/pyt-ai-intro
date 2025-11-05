@@ -73,7 +73,7 @@ python test.py
 ```bash
 # 1. Öffne Terminal: Ctrl+`
 # 2. Erstelle eine Datei
-echo 'name = input("Wie heißt du? ")
+echo 'name = input("Wie heisst du? ")
 print(f"Hallo {name}!")' > hello.py
 
 # 3. Führe aus
@@ -89,7 +89,7 @@ python hello.py
 | Problem | Lösung |
 |---------|--------|
 | Codespace startet nicht | Warte 2-3 Min., aktualisiere Seite |
-| Zu langsam | Schließe andere Tabs, pausiere & starte neu |
+| Zu langsam | Schliesse andere Tabs, pausiere & starte neu |
 | Stunden aufgebraucht | Warte bis nächster Monat oder nutze lokal |
 | Python nicht gefunden | Terminal neu öffnen: `Ctrl+Shift+` ` ` |
 

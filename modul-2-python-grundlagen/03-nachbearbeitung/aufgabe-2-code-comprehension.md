@@ -76,7 +76,7 @@ Erstellen Sie ein Markdown-Dokument (`code-comprehension.md`) mit folgenden Absc
 
 - [ ] **Zweck des Programms:** Beschreiben Sie in 3-5 Sätzen, was das Programm macht
 - [ ] **Hauptfunktionen:** Listung aller 4 Funktionen mit Kurzbeschreibung
-- [ ] **Datenfluss:** Diagramm oder Beschreibung, wie Daten durch die Funktionen fließen
+- [ ] **Datenfluss:** Diagramm oder Beschreibung, wie Daten durch die Funktionen fliessen
 
 ### 2. Detaillierte Funktionsanalyse (40 Punkte)
 
@@ -254,7 +254,7 @@ test_data = [...]
 
 **3. Zusammenhänge verstehen (10 Min.)**
 - Wie rufen Funktionen einander auf?
-- Welche Daten fließen zwischen Funktionen?
+- Welche Daten fliessen zwischen Funktionen?
 - Was ist der Gesamtzweck?
 
 **4. Dokumentation schreiben (10 Min.)**
@@ -372,7 +372,7 @@ stats = {
 **Logik:**
 1. Verwendet List Comprehension für kompakte Filterung
 2. Prüft zwei Bedingungen mit `and`:
-   - `x is not None`: Schließt None-Werte aus
+   - `x is not None`: Schliesst None-Werte aus
    - `x > threshold`: Behält nur Werte über Schwellenwert
 3. Gibt neue gefilterte Liste zurück (Original unverändert)
 
@@ -436,7 +436,7 @@ Falls Sie mehr Zeit haben:
 
 1. **Performance-Analyse:**
    - Messen Sie die Ausführungszeit mit `time.time()`
-   - Testen Sie mit großen Datensätzen (10.000+ Elemente)
+   - Testen Sie mit grossen Datensätzen (10.000+ Elemente)
    - Gibt es Engpässe?
 
 2. **Unit Tests:**

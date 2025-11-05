@@ -137,7 +137,7 @@ Verarbeite diese Daten
 Ich habe eine CSV-Datei mit Verkaufsdaten:
 - Spalten: date, product, quantity, price
 - Format: YYYY-MM-DD
-- Größe: ~10.000 Zeilen
+- Grösse: ~10.000 Zeilen
 
 Schreib ein Python-Skript, das:
 1. Die Datei lädt

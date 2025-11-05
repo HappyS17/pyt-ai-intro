@@ -83,7 +83,7 @@ Wähle **EINE** der folgenden Optionen:
 **Beste Lösung:** Nutze beide!
 
 1. **Codespaces** für Kursmaterialien und Übungen
-2. **Lokal** für größere Projekte und Experimente
+2. **Lokal** für grössere Projekte und Experimente
 
 So sparst du Codespaces-Stunden und hast maximale Flexibilität.
 

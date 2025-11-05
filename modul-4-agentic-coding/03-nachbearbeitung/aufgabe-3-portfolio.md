@@ -18,7 +18,7 @@ Wähle eines der folgenden Projekte oder entwickle dein eigenes:
 ```
 Beispiel: Datei-Organizer
 - Liest Dateien aus Verzeichnis
-- Sortiert nach Typ/Datum/Größe
+- Sortiert nach Typ/Datum/Grösse
 - Verschiebt in Ordner
 - Zeigt Statistiken
 ```

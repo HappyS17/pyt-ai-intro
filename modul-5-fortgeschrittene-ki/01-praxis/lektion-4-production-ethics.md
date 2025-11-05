@@ -253,5 +253,5 @@ Implementiere:
 
 ---
 
-**Merksatz:** "Mit großer KI-Kraft kommt große Verantwortung!" 🦸
+**Merksatz:** "Mit grosser KI-Kraft kommt grosse Verantwortung!" 🦸
 

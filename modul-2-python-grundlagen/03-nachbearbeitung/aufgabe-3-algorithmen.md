@@ -67,7 +67,7 @@ def is_palindrome(text: str) -> bool:
     """
     Prüft, ob ein String ein Palindrom ist.
 
-    Ignoriert Groß-/Kleinschreibung und Leerzeichen.
+    Ignoriert Gross-/Kleinschreibung und Leerzeichen.
 
     Args:
         text: Zu prüfender String
@@ -150,7 +150,7 @@ def are_anagrams(str1: str, str2: str) -> bool:
     """
     Prüft, ob zwei Strings Anagramme sind.
 
-    Ignoriert Groß-/Kleinschreibung und Leerzeichen.
+    Ignoriert Gross-/Kleinschreibung und Leerzeichen.
 
     Args:
         str1: Erster String
@@ -474,7 +474,7 @@ return True
 
 **Konzept:** Speichere bereits berechnete Werte.
 
-**Ohne Memoization (LANGSAM für große n):**
+**Ohne Memoization (LANGSAM für grosse n):**
 ```python
 def fib(n):
     if n <= 1:
