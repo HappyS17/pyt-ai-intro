@@ -13,18 +13,7 @@ Bevor wir mit dem Präsenzunterricht starten, bereiten Sie bitte Ihre Entwicklun
 
 Wähle **EINE** der folgenden Optionen:
 
-#### Option A: GitHub Codespaces (empfohlen - keine Installation!)
-
-- [ ] GitHub Student Developer Pack aktiviert
-- [ ] Codespaces gestartet
-- [ ] Python getestet
-- **Zeitaufwand:** 15 Min.
-- **Voraussetzung:** .edu Email-Adresse
-- **Kosten:** Kostenlos (60 Stunden/Monat)
-
-👉 **[Codespaces Setup Guide](./codespaces-setup.md)**
-
-#### Option B: Lokale Installation (traditionell)
+#### Option A: Lokale Installation (empfohlen - traditionell)
 
 - [ ] Python installiert und getestet
 - [ ] Git installiert und konfiguriert
@@ -36,6 +25,17 @@ Wähle **EINE** der folgenden Optionen:
 - **Kosten:** Kostenlos
 
 👉 **[Installationsanleitung](./installationsanleitung.md)**
+
+#### Option B: GitHub Codespaces (Fallback - keine Installation!)
+
+- [ ] GitHub Student Developer Pack aktiviert
+- [ ] Codespaces gestartet
+- [ ] Python getestet
+- **Zeitaufwand:** 15 Min.
+- **Voraussetzung:** .edu Email-Adresse
+- **Kosten:** Kostenlos (60 Stunden/Monat)
+
+👉 **[Codespaces Setup Guide](./codespaces-setup.md)**
 
 ---
 
