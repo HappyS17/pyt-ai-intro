@@ -25,7 +25,7 @@ Umfassende Testabdeckung für alle Python-Beispiele mit **95%+ Coverage**.
 ### Installation
 ```bash
 cd modul-5-fortgeschrittene-ki/05-beispiele
-pip install -r tests/requirements-test.txt
+uv sync --group test
 ```
 
 ### Tests ausführen

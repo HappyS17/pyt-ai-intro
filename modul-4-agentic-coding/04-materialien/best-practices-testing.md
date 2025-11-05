@@ -166,8 +166,8 @@ def test_api_call():
 ## 📊 Test Coverage
 
 ```bash
-# Coverage installieren
-pip install pytest-cov
+# Coverage installieren mit uv
+uv sync --group test
 
 # Coverage messen
 pytest --cov=src tests/

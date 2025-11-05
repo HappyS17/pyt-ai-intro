@@ -31,8 +31,8 @@ Richten Sie einen API-Zugang ein und führen Sie erste Tests durch.
 ### Schritt 3: Setup in Python (10 Min.)
 
 ```bash
-# Installation
-pip install openai python-dotenv
+# Installation mit uv
+uv sync
 ```
 
 Erstelle `.env` Datei:
@@ -100,7 +100,7 @@ print(f"Kosten: ~${response.usage.total_tokens * 0.000001:.6f}")
 ### Schritt 3: Setup
 
 ```bash
-pip install anthropic python-dotenv
+uv sync
 ```
 
 `.env`:

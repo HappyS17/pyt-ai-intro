@@ -40,31 +40,29 @@ Wähle eines deiner bisherigen Projekte (oder nutze ein Beispiel-Projekt) und ve
 
 ### Code-Analyse
 ```bash
+# Alle Tools mit uv installieren
+uv sync --group dev
+
 # pylint
-pip install pylint
 pylint src/
 
 # ruff
-pip install ruff
 ruff check src/
 
 # black (Formatierung)
-pip install black
 black src/
 ```
 
 ### Testing
 ```bash
-# pytest
-pip install pytest pytest-cov
+# pytest (mit uv installiert)
 pytest tests/
 pytest --cov=src tests/
 ```
 
 ### Metriken
 ```bash
-# Komplexität
-pip install radon
+# Komplexität (radon ist in dev-dependencies)
 radon cc src/ -a
 
 # Wartbarkeit

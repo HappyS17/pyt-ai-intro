@@ -53,7 +53,7 @@ Kurze Beschreibung
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 ## Usage

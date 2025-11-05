@@ -7,10 +7,12 @@
 
 ## 📦 Installation & Import
 
-```python
-# Installation
-pip install pandas
+```bash
+# Installation mit uv
+uv sync
+```
 
+```python
 # Import
 import pandas as pd
 ```

@@ -143,7 +143,7 @@ cryptography==41.0.7
 
 **Installation:**
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 **Funktionen:**
@@ -599,7 +599,7 @@ Wie kann ich das elegant lösen? Zeige mir:
 git clone [url]
 
 # Dependencies installieren
-pip install -r requirements.txt
+uv sync
 
 # Programm starten
 python [hauptdatei].py

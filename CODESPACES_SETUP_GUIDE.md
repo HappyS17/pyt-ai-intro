@@ -139,8 +139,8 @@ Alle Packages werden automatisch installiert wenn Codespace startet.
   },
   // VS Code Extensions automatisch installieren
   
-  "postCreateCommand": "pip install -r requirements-dev.txt",
-  // Nach Erstellung: Dependencies installieren
+  "postCreateCommand": "uv sync --group dev",
+  // Nach Erstellung: Dependencies mit uv installieren
   
   "forwardPorts": [5000, 8000, 8080],
   // Ports für Flask, FastAPI, Web Apps
@@ -224,7 +224,7 @@ Wenn du Assignments verteilst:
 ### Dependencies nicht installiert
 
 - Terminal öffnen: `Ctrl+` ` `
-- Manuell installieren: `pip install -r requirements-dev.txt`
+- Manuell installieren: `uv sync --group dev`
 
 ---
 

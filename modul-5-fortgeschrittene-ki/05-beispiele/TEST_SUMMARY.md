@@ -87,7 +87,7 @@ modul-5-fortgeschrittene-ki/05-beispiele/
 ### Installation
 ```bash
 cd modul-5-fortgeschrittene-ki/05-beispiele
-pip install -r tests/requirements-test.txt
+uv sync --group test
 ```
 
 ### Tests ausführen

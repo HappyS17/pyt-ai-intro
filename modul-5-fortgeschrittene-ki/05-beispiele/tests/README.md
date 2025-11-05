@@ -26,11 +26,11 @@ tests/
 ## Installation
 
 ```bash
-# Installiere Test-Dependencies
-pip install pytest pytest-cov pytest-mock pytest-timeout
+# Installiere Test-Dependencies mit uv
+uv sync --group test
 
-# Optional: Für bessere Ausgabe
-pip install pytest-html pytest-xdist
+# Oder mit Makefile
+make install
 ```
 
 ## Tests ausführen

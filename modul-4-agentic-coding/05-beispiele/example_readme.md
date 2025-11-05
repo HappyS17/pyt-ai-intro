@@ -38,7 +38,7 @@ Eine Python-Anwendung, die CSV-Daten lädt, bereinigt, analysiert und visualisie
 ### Voraussetzungen
 
 - Python 3.11 oder höher
-- pip oder uv
+- uv
 
 ### Schritt-für-Schritt
 
@@ -50,7 +50,7 @@ Eine Python-Anwendung, die CSV-Daten lädt, bereinigt, analysiert und visualisie
 
 2. **Abhängigkeiten installieren**
    ```bash
-   pip install -r requirements.txt
+   uv sync
    ```
 
 3. **Umgebungsvariablen konfigurieren** (optional)
@@ -216,7 +216,7 @@ Charlie,35,60000,Engineering
 
 **Lösung:**
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 ### Problem: "FileNotFoundError: data.csv"

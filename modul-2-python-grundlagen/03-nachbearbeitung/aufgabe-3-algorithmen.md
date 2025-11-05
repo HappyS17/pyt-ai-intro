@@ -571,7 +571,7 @@ Wenn n = a × b, dann ist mindestens einer der Faktoren ≤ √n.
 
 **Installation:**
 ```bash
-pip install pytest
+uv sync --group test
 ```
 
 **Tests ausführen:**

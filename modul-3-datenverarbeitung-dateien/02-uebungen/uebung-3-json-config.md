@@ -205,7 +205,7 @@ Clara,28,Basel,Managerin
 
 ## 💡 Tipps
 
-- Für API-Calls: `pip install requests`
+- Für API-Calls: `uv sync` (requests ist bereits in pyproject.toml enthalten)
 - JSON-Pfade mit `.get()` sicher navigieren
 - Pretty-Print mit `json.dumps(data, indent=2)`
 - Fehlerbehandlung für ungültiges JSON

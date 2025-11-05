@@ -132,12 +132,8 @@ python programm3_zahlenraten.py
 git clone <repository-url>
 cd mein-python-projekt
 
-# (Optional) Virtuelle Umgebung erstellen
-python -m venv venv
-source venv/bin/activate  # Auf Windows: venv\Scripts\activate
-
-# (Optional) Abhängigkeiten installieren
-pip install -r requirements.txt
+# Abhängigkeiten installieren mit uv
+uv sync
 ```
 
 ## 📚 Verwendete Technologien

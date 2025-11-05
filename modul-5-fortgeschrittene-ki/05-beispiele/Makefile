@@ -14,7 +14,7 @@ help:
 	@echo "  make clean            - Cleanup"
 
 install:
-	pip install -r tests/requirements-test.txt
+	uv sync --group test
 
 test:
 	pytest tests/

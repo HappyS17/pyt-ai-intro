@@ -22,7 +22,7 @@ Kurze Beschreibung (1-2 Sätze).
 
 ### Voraussetzungen
 - Python 3.11+
-- pip oder uv
+- uv
 
 ### Schritt-für-Schritt
 
@@ -34,7 +34,7 @@ Kurze Beschreibung (1-2 Sätze).
 
 2. Abhängigkeiten installieren
    \`\`\`bash
-   pip install -r requirements.txt
+   uv sync
    \`\`\`
 
 3. Konfigurieren
