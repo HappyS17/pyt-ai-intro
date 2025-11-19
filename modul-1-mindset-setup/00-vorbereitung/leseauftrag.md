@@ -48,7 +48,7 @@ Beantworten Sie folgende Fragen schriftlich (je 2-3 Sätze):
 
 _Ihre Antwort:_
 ```
-[Hier Ihre Antwort eintragen]
+Was mich wirklich überrascht ist, dass ich Fehler einfach in einen AI Chat geben kann und sofort mögliche Ursachen bekomme. Das erleichtert die Bug Analyse enorm
 ```
 
 ### Frage 2: Bedenken
@@ -56,7 +56,7 @@ _Ihre Antwort:_
 
 _Ihre Antwort:_
 ```
-[Hier Ihre Antwort eintragen]
+Jeder kann heute dank KI plötzlich „Entwickler“ sein. An sich ist das positiv, weil es den Zugang erleichtert. Aber genau darin liegt auch eine Gefahr. Viele verstehen den Code nicht wirklich und ohne ein solides Verständnis der fachlichen Anforderungen wird man auch mit KI kein funktionierendes Feature oder Projekt entwickeln.
 ```
 
 ### Frage 3: Erwartungen
@@ -64,7 +64,9 @@ _Ihre Antwort:_
 
 _Ihre Antwort:_
 ```
-[Hier Ihre Antwort eintragen]
+Ich möchte verstehen, wie ich als nicht gelernter Entwickler KI und Low-Code sinnvoll für meine Arbeit und mein Privatleben nutzen kann.
+Mir ist wichtig, den Code lesen und nachvollziehen zu können, damit ich Bug besser analysieren und beheben kann.
+
 ```
 
 ### Frage 4: Motivation
@@ -72,8 +74,7 @@ _Ihre Antwort:_
 
 _Ihre Antwort:_
 ```
-[Hier Ihre Antwort eintragen]
-```
+Ich möchte verstehen, wie Machine Learning funktioniert, und dafür brauche ich ein grundlegendes Verständnis von Programmierung.
 
 ## 📝 Notizen
 
